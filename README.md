@@ -1,5 +1,7 @@
 # Online-Retail-customer-segmentation-Unsupervised-ML
 
+![What-is-Segmentation_social-media-post](https://user-images.githubusercontent.com/120657228/232193458-1bc085b6-208a-4794-b7b3-55470c2e7d99.jpg)
+
 # **Indroduction:-**
 
 Businesses all over the world are growing every day. With the help of technology, they have access to a wider market and hence, a large customer base. Customer segmentation refers to categorizing customers into different groups with similar characteristics.
