@@ -38,15 +38,15 @@ A combination of these three attributes can be defined to assign a quantitative 
 
 # **Approach taken**
 
-*Data inspection
+* Data inspection
 
-*EDA
+* EDA
 
-*Data preparation
+* Data preparation
 
-*Create RFM model
+* Create RFM model
 
-*Implementing various clustering Models and validating
+* Implementing various clustering Models and validating
 
 # **Conclusions:**
 
