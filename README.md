@@ -50,20 +50,20 @@ A combination of these three attributes can be defined to assign a quantitative 
 
 # **Conclusions:**
 
-Descriptive Analysis: The data exploration of Online customer segmentation dataset shows :
+* Descriptive Analysis: The data exploration of Online customer segmentation dataset shows :
 
-Missing and duplicate values were found.
+* Missing and duplicate values were found.
 
-Most of the purchases are from the United Kingdom.
+* Most of the purchases are from the United Kingdom.
 
-Most of the customers have purchased items on Thursday, Wednesday, Tuesday.
+* Most of the customers have purchased items on Thursday, Wednesday, Tuesday.
 
-Most of the customers have purchased items in November, October, December, and the least number of purchases in April, January, February.
+* Most of the customers have purchased items in November, October, December, and the least number of purchases in April, January, February.
 
-Most of the customers purchase in the afternoon time.
+* Most of the customers purchase in the afternoon time.
 
-Using a recency, frequency and monetary(RFM) analysis, the customers have been segmented into various clusters.
+* Using a recency, frequency and monetary(RFM) analysis, the customers have been segmented into various clusters.
 
-By applying different clustering algorithm to our dataset, we get the optimal number of cluster is equal to 3.
+* By applying different clustering algorithm to our dataset, we get the optimal number of cluster is equal to 3.
 
-The business can focus on these different clusters and provide customer with services of each sector in a different way, which would not only benefit the customers but also the business at large.
+* The business can focus on these different clusters and provide customer with services of each sector in a different way, which would not only benefit the customers but also the business at large.
