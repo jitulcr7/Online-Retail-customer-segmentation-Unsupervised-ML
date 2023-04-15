@@ -16,13 +16,13 @@ In this project, your task is to identify major customer segments on a transnati
 
 The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
 
-*Target Marketing
+* Target Marketing
 
-*Client understanding
+* Client understanding
 
-*Optimal product placement
+* Optimal product placement
 
-*Revenue growth
+* Revenue growth
 
 # **Recency-Frequency-Monetary (RFM) model to determine customer value:**
 
